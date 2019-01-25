@@ -1,0 +1,8 @@
+dt:
+	conda
+
+rf:
+	conda
+
+
+

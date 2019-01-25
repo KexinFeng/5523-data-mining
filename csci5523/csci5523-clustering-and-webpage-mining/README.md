@@ -1,2 +1,2 @@
 # csci5523-clustering-and-webpage-mining
-This is a course project
+See the pdf file for project description.

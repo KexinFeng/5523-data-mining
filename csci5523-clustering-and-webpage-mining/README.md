@@ -3,8 +3,8 @@ This project deals with *.sgm webpage files. The purpose is to use kmeans to clu
 
 + Getting the dataset, data cleaning
 + Preprocessing the dataset to get bag of word vector representation
-+ Clustering the dataset based on different objective function
-+ Evaluating the quality. 
++ Using k-means to clustering the dataset based on different objective function
++ Evaluating the quality based on entropy and purity.
 
 preprocess.py deals with preprocessing  
 kcluster.java is the k-clustering algorithm.

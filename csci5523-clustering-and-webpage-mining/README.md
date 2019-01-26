@@ -1,5 +1,10 @@
 # csci5523-Clustering-and-Webpage-Mining
-This project deals with *.sgm webpage files. The purpose is to use kmeans to cluster objects corresponding to sparse high dimensional vectors. The project consists of multiple components, involving getting the dataset, data cleaning, preprocessing the dataset to get bag of word vector representation, clustering the dataset based on different objective functions, evaluating the quality, etc.  
+This project deals with *.sgm webpage files. The purpose is to use kmeans to cluster objects corresponding to sparse high dimensional vectors. The project consists of the following multiple components:
+
++ Gtting the dataset, data cleaning\
++ Preprocessing the dataset to get bag of word vector representation\
++ Clustering the dataset based on different objective functions\
++ Evaluating the quality. 
 
 preprocess.py deals with preprocessing  
 kcluster.java is the k-clustering algorithm.

@@ -1,6 +1,7 @@
 # csci5523-Clustering-and-Webpage-Mining
 This project deals with *.sgm webpage files. The purpose is to use kmeans to cluster objects corresponding to sparse high dimensional vectors. The project consists of the following multiple components:
 
++ Reuters-21578 dataset (around 9000 webpage articles).
 + Getting the dataset, data cleaning
 + Preprocessing the dataset to get bag of word vector representation
 + Using k-means to clustering the dataset based on different objective function

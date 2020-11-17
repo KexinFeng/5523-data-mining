@@ -6,4 +6,4 @@ This project deals with a dataset of grocery store transaction records. The purp
 + Implementing FP-tree data structure
 + Implementing apriori association rule algorithm. 
 
-Each file is a highly integrated code. Checkout the project2.pdf to see the details of problem the code addresses.
+Each file is a highly integrated code. Checkout the `project1.pdf` to see the details of problem the code addresses.
